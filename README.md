@@ -17,7 +17,7 @@ Expo push notification'u firebase yardımı ile daha kolay hale getiriyoruz. Bur
     "firebase-admin": "~6.0.0",
     "firebase-functions": "^2.0.3"
     
-**Expo Push Notification and Firebase Cloud Function Integration **
+**Expo Push Notification and Firebase Cloud Function Integration**
 ==============================================================
 
   - Firebase and Google Cloud function examples
@@ -28,7 +28,7 @@ Expo push notification'u firebase yardımı ile daha kolay hale getiriyoruz. Bur
 
 We make Expo push notification easier with the help of firebase. The purpose here is to trigger the database and send the required notification to the expo server through the token through the cloud function.
 
-**Libraries and versions used **
+**Libraries and versions used**
 --------------------------------------
 
 	 "babel-polyfill": "^ 6.26.0",
